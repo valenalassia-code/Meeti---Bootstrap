@@ -1,0 +1,4 @@
+node_modules/
+sass/
+build/css/style.css
+.Ds_Store
